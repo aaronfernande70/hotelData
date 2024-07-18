@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "name": "Hotel Sunshine",
+        "location": {
+            "city": "San Francisco",
+            "state": "California",
+            "country": "USA"
+        },
+        "rating": 4.5,
+        "amenities": [
+            "Free WiFi",
+            "Swimming Pool",
+            "Spa",
+            "Gym",
+            "Restaurant"
+        ],
+        "price_per_night": 150,
+        "reviews": [
+            {
+                "username": "john_doe",
+                "rating": 5,
+                "comment": "Excellent service and beautiful view!"
+            },
+            {
+                "username": "jane_smith",
+                "rating": 4,
+                "comment": "Very comfortable stay, but the breakfast could be better."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mountain Retreat",
+        "location": {
+            "city": "Aspen",
+            "state": "Colorado",
+            "country": "USA"
+        },
+        "rating": 4.7,
+        "amenities": [
+            "Free WiFi",
+            "Hot Tub",
+            "Ski-in/Ski-out",
+            "Restaurant",
+            "Bar"
+        ],
+        "price_per_night": 250,
+        "reviews": [
+            {
+                "username": "alice_wonder",
+                "rating": 5,
+                "comment": "Amazing location and great facilities for skiing!"
+            },
+            {
+                "username": "bob_builder",
+                "rating": 4,
+                "comment": "Beautiful place but a bit pricey."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Beachside Inn",
+        "location": {
+            "city": "Miami",
+            "state": "Florida",
+            "country": "USA"
+        },
+        "rating": 4.3,
+        "amenities": [
+            "Free WiFi",
+            "Beach Access",
+            "Pool",
+            "Gym",
+            "Free Breakfast"
+        ],
+        "price_per_night": 180,
+        "reviews": [
+            {
+                "username": "charlie_chap",
+                "rating": 5,
+                "comment": "Loved the beach access and the friendly staff!"
+            },
+            {
+                "username": "dana_scully",
+                "rating": 3,
+                "comment": "Good location but the rooms need renovation."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "City Center Hotel",
+        "location": {
+            "city": "New York",
+            "state": "New York",
+            "country": "USA"
+        },
+        "rating": 4.0,
+        "amenities": [
+            "Free WiFi",
+            "Gym",
+            "Business Center",
+            "Restaurant",
+            "Bar"
+        ],
+        "price_per_night": 200,
+        "reviews": [
+            {
+                "username": "eve_morgan",
+                "rating": 4,
+                "comment": "Great location and amenities, but a bit noisy."
+            },
+            {
+                "username": "frank_castle",
+                "rating": 4,
+                "comment": "Convenient for business trips, good service."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Countryside B&B",
+        "location": {
+            "city": "Nashville",
+            "state": "Tennessee",
+            "country": "USA"
+        },
+        "rating": 4.8,
+        "amenities": [
+            "Free WiFi",
+            "Free Breakfast",
+            "Pet Friendly",
+            "Garden",
+            "Parking"
+        ],
+        "price_per_night": 120,
+        "reviews": [
+            {
+                "username": "grace_hopper",
+                "rating": 5,
+                "comment": "Charming place with wonderful hosts!"
+            },
+            {
+                "username": "harry_potter",
+                "rating": 4,
+                "comment": "Lovely stay but a bit far from the city."
+            }
+        ]
+    }
+]
